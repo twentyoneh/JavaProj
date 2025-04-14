@@ -4,8 +4,8 @@ import lombok.*;
 
 import java.time.LocalDate;
 
-@Getter
-@Setter
+@Data
+@Builder
 public class Student {
     private String firstName;
     private String lastName;
