@@ -1,5 +1,8 @@
 package twentyoneh.site_for_vladivir.controller;
 
-public class ProductController {
+import org.springframework.stereotype.Controller;
 
+@Controller
+public class ProductController {
+    
 }
