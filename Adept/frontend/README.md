@@ -1,5 +1,5 @@
 # Frontend
-
+generate  powershell: ng build --configuration production           
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
 
 ## Development server
