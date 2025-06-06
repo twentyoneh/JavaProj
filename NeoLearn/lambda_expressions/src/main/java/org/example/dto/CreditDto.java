@@ -1,6 +1,8 @@
 package org.example.dto;
 
 import lombok.Data;
+import lombok.ToString;
+
 import java.math.BigDecimal;
 import java.util.List;
 
