@@ -1,6 +1,7 @@
 package ru.kalinin.school.models;
 
 import lombok.*;
+import ru.kalinin.student.models.Student;
 
 import java.util.List;
 
